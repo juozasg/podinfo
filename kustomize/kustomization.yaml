@@ -5,5 +5,5 @@ resources:
   - deployment.yaml
   - service.yaml
   - nsempty.yaml
-  # - nsfull.yaml
+  - nstwo.yaml
 
