@@ -2,9 +2,3 @@ apiVersion: v1
 kind: Namespace
 metadata:
   name: nsfull
----
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: cm
-  namespace: nsfull
