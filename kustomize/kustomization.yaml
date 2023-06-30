@@ -6,4 +6,5 @@ resources:
   - service.yaml
   - nsempty.yaml
   - nstwo.yaml
+  - cm.yaml
 
