@@ -3,7 +3,7 @@ kind: Kustomization
 resources:
   # - hpa.yaml
   # - deployment.yaml
-  # - service.yaml
+  - service.yaml
   - nsempty.yaml
   - nstwo.yaml
 
